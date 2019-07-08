@@ -1,0 +1,9 @@
+div.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+div.author {
+  width: 50%;
+  font-style:oblique;
+}
