@@ -7,3 +7,10 @@ div.author {
   width: 50%;
   font-style:oblique;
 }
+
+
+
+.column{
+    width: 300px;
+    float: left;
+}
